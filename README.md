@@ -16,7 +16,7 @@ SPOTIPY_CLIENT_ID = "Get from developer.spotify.com"
 
 SPOTIPY_CLIENT_SECRET = "Get from developer.spotify.com"
 
-SPOTIPY_REDIRECT_URI = "www.example.com"
+SPOTIPY_REDIRECT_URI = "www.example.com/"
 
 preDefPlaylists = {
 
